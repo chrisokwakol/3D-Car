@@ -6,13 +6,13 @@
   <p align="center">
     
     <br />
-    <a href="https://santosharron.github.io/3D-car-model/"><strong>View Live Site Here »</strong></a>
+    <a href="https://aventador-3d-model.netlify.app/"><strong>View Live Site Here »</strong></a>
   
   
   ## About The Project
 
 <p align="center">
-  <a href="https://santosharron.github.io/3D-car-model/">
+  <a href="https://github.com/chrisokwakol/3D-Car">
     <img src="https://user-images.githubusercontent.com/73644573/119262368-93bf3f80-bbf8-11eb-9b05-afce09af4542.gif" alt="ScreenShot" width="800" height="600">
   </a>
 
