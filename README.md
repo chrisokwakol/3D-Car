@@ -5,9 +5,7 @@
 
   <p align="center">
     
-    <br />
-    <a href="https://aventador-3d-model.netlify.app/"><strong>View Live Site Here »</strong></a>
-  
+  <a href="https://aventador-3d-model.netlify.app/"><strong>View Live Site Here »</strong></a>
   
   ## About The Project
 
